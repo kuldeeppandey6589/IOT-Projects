@@ -1,4 +1,4 @@
-//BOARD SELECTED WILL BE AI THINKER ESP32-CAM
+ //BOARD SELECTED WILL BE AI THINKER ESP32-CAM
 //PARTITION SCHEME (HUGE APP)
 // EVERYTHING ELSE WILL BE DEFAULT
 
@@ -12,7 +12,7 @@ extern "C" {
 }
 
 /* ===================== USER CONFIG (lightweight knobs) ===================== */
-static const char* WIFI_SSID = "home";
+static const char* WIFI_SSID = "homeiot";
 static const char* WIFI_PASS = "homeiot123";
 
 // Default stream framerate (JS side will pull ~FPS snapshots)

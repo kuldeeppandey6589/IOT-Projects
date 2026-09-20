@@ -457,8 +457,8 @@
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-#define WIFI_SSID "Robotutor"
-#define WIFI_PASS "Robotutor"
+#define WIFI_SSID "homeiot"
+#define WIFI_PASS "homeiot123"
 #define AIO_USERNAME "fault081125"
 #define AIO_KEY "aio_gsOA81bvIj3EWWNh1HezxccF6Pk0"
 

@@ -100,7 +100,7 @@ void readDHT() {
 }
 
 // ---------- BLUETOOTH HANDLER ----------
-void handleBluetooth() {0
+void handleBluetooth() {
   if (!BT.available()) return;
 
   String cmd = BT.readStringUntil('\n');

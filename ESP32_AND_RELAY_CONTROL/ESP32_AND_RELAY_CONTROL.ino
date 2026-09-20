@@ -4,13 +4,14 @@
 
 // ====== WIFI DETAILS ======
 #define WIFI_SSID "home"
-#define WIFI_PASS "homeiot12"
+#define WIFI_PASS "homeiot123"
 
 // ====== ADAFRUIT IO DETAILS ======
 #define AIO_SERVER "io.adafruit.com"
 #define AIO_SERVERPORT 1883
 #define AIO_USERNAME "spreay250226"
-#define AIO_KEY "aio_SWKd02nU1x96hHQx9nGvnVUeuJqh"
+//Spreay@123
+// #define AIO_KEY "aio_SWKd02nU1x96hHQx9nGvnVUeuJqh"
 
 // ====== RELAY PIN ======
 // D5 = GPIO14
