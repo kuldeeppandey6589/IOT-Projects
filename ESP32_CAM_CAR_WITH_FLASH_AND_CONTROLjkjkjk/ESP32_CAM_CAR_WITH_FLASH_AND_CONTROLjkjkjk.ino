@@ -16,7 +16,7 @@ static const char* WIFI_SSID = "homeiot";
 static const char* WIFI_PASS = "homeiot123";
 
 // Default stream framerate (JS side will pull ~FPS snapshots)
-#define SNAPSHOT_FPS       14   // try 12–16; raise slowly if link is solid
+#define SNAPSHOT_FPS       14   // try 12–16; raise slowly if l........ink is solid
 
 // Camera defaults (speed-biased but still decent quality)
 #define DEFAULT_FRAMESIZE  FRAMESIZE_QVGA   // QQVGA for max fps, QVGA is a nice balance
