@@ -27,7 +27,7 @@ WebServer server(80);
 // Relay pins and states
 const uint8_t relayPins[4] = {
   RELAY1, RELAY2, RELAY3, RELAY4
-};
+}; 
 
 bool relayStates[4] = {
   false, false, false, false
